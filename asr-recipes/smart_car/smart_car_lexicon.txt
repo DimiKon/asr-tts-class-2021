@@ -1,0 +1,122 @@
+SENT-END [] SIL
+SENT-START [] SIL
+ηλιοροφή 	 i ʎ o r o f i
+υαλοκαθαριστήρες 	 i a l o k a θ a r i s t i r e s 	 
+αλάρμ 	 a l a r m
+καφετέρια 	 k a f e t e r i a
+κατεχάκη 	 k a t e x a c i
+αντωνακάκη 	 a d o n a k a c i
+τσίλη 	 t s i l i 
+κοντοέ 	 k o d o e
+το 	 t o
+την 	 t i n
+τη 	 t i
+ερκοντίσιον 	 E r k o d i s C o n
+ερκοντίσιον 	 E r k o d i s i o n
+ραδιόφωνο 	 r A D J o f o n o
+ραδιόφωνο 	 r A D i o f o n o
+μπροστά 	 b r o s t A
+πίσω 	 p i s o
+αριστερά 	 A r i s t E r A
+δεξιά 	 D E k s C A
+δεξιά 	 D E k s i A
+παράθυρο 	 p A r A T i r o
+την 	 t i n
+πορτμπαγκάζ 	 p o r t b A g A z
+τον 	 t o n
+ήχο 	 i x o
+τους 	 t u s
+τα 	 t A
+σπίτι 	 s p i t i
+δουλειά 	 D u l ly A
+δουλειά 	 D u l i A
+βενζινάδικο 	 v E n z i n A D i k o
+εστιατόριο 	 E s t J A t o r i o
+εστιατόριο 	 E s t i A t o r i o
+πάρκινγκ 	 p A r k c n g
+πάρκινγκ 	 p A r k i n g
+νοσοκομείο 	 n o s o k o m N o
+νοσοκομείο 	 n o s o k o m i o
+σουπερμάρκετ 	 s u p E r m A r k E t
+ξενοδοχείο 	 k s E n o D o x i o
+συνεργείο 	 s i n E r J i o
+συνεργείο 	 s i n E r i i o
+αυτοκινήτων 	 A f t o k c n N t o n
+αυτοκινήτων 	 A f t o k i n N t o n
+αυτοκινήτων 	 A f t o k i n i t o n
+φαρμακείο 	 f A r m A k c o
+φαρμακείο 	 f A r m A k i o
+στο 	 s t o
+στην 	 s t i n
+στη 	 s t i
+στον 	 s t o n
+επόμενο 	 E p o m E n o
+πλησιέστερο 	 p l ly s C E s t E r o
+πλησιέστερο 	 p l ly s i E s t E r o
+πλησιέστερο 	 p l i s i E s t E r o
+επόμενη 	 E p o m E n N
+επόμενη 	 E p o m E n i
+πλησιέστερη 	 p l ly s C E s t E r i
+πλησιέστερη 	 p l ly s i E s t E r i
+πλησιέστερη 	 p l i s i E s t E r i
+ένα 	 E n A
+δύο 	 D i o
+τρία 	 t r i A
+τέσσερα 	 t E s E r A
+πέντε 	 p E d E
+έξι 	 E k s C
+έξι 	 E k s i
+επτά 	 E p t A
+οκτώ 	 o k t o
+εννέα 	 E n E A
+μηδέν 	 m N D E n
+μηδέν 	 m i D E n
+αθήνα 	 A T i n A
+πάτρα 	 p A t r A
+θεσσαλονίκη 	 T E s A l o n N k c
+θεσσαλονίκη 	 T E s A l o n N k i
+θεσσαλονίκη 	 T E s A l o n i k i
+ηράκλειο 	 i r A k l ly o
+ηράκλειο 	 i r A k l i o
+ηράκλειο 	 i r A k l ly o
+ηράκλειο 	 i r A k l i o
+ηλιούπολη 	 i l ly u p o l ly
+ηλιούπολη 	 i l i u p o l ly
+ηλιούπολη 	 i l i u p o l i
+βόλο 	 v o l o
+πανεπιστημίου 	 p A n E p i s t i m N u
+πανεπιστημίου 	 p A n E p i s t i m i u
+μεσογείων 	 m E s o J i o n
+μεσογείων 	 m E s o i i o n
+πατησίων 	 p A t i s i o n
+ελευθερίου 	 E l E f T E r i u
+βενιζέλου 	 v E n N z E l u
+βενιζέλου 	 v E n i z E l u
+πλατεία 	 p l A t i A
+συντάγματος 	 s i d A G m A t o s
+αριστοτέλους 	 A r i s t o t E l u s
+ελευθερίας 	 E l E f T E r i A s
+ελένη 	 E l E n N
+ελένη 	 E l E n i
+δήμητρα 	 D i m N t r A
+δήμητρα 	 D i m i t r A
+γιάννη 	 J i A n i
+γιάννη 	 i i A n i
+παπαδόπουλο 	 p A p A D o p u l o
+άνοιξε 	 A n N k s E
+άνοιξε 	 A n i k s E
+κλείσε 	 k l ly s E
+κλείσε 	 k l i s E
+δυνάμωσε 	 D i n A m o s E
+χαμήλωσε 	 x A m N l o s E
+χαμήλωσε 	 x A m i l o s E
+επόμενος 	 E p o m E n o s
+προηγούμενος 	 p r o i G u m E n o s
+σταθμός 	 s t A T m o s
+ενεργοποίησε 	 E n E r G o p i i s E
+απενεργοποίησε 	 A p E n E r G o p i i s E
+θα 	 T A
+ήθελα 	 i T E l A
+να 	 n A
+κάλεσε 	 k A l E s E
+πάω 	 p A o
